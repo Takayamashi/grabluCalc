@@ -1,0 +1,65 @@
+name: Eureka, nameSpecified: 
+body: The MIT License (MIT…
+version: 4.3.0
+
+name: Firebase, nameSpecified: 
+body: Copyright 2019 Googl…
+version: 5.16.0
+
+name: FirebaseAnalytics, nameSpecified: 
+body: Copyright 2019 Googl…
+version: 5.5.0
+
+name: FirebaseCore, nameSpecified: 
+body: 
+                   …
+version: 5.2.0
+
+name: FirebaseInstanceID, nameSpecified: 
+body: Copyright 2019 Googl…
+version: 3.4.0
+
+name: Google-Mobile-Ads-SDK, nameSpecified: 
+body: Copyright 2019 Googl…
+version: 7.39.0
+
+name: GoogleAppMeasurement, nameSpecified: 
+body: Copyright 2019 Googl…
+version: 5.5.0
+
+name: GoogleUtilities, nameSpecified: 
+body: 
+                   …
+version: 5.3.7
+
+name: IQKeyboardManager, nameSpecified: 
+body: MIT License
+
+Copyrig…
+version: 6.2.0
+
+name: LicensePlist, nameSpecified: 
+body: MIT License
+
+Copyrig…
+version: 1.8.8
+
+name: nanopb, nameSpecified: 
+body: Copyright (c) 2011 P…
+version: 0.3.901
+
+name: Realm, nameSpecified: 
+body: TABLE OF CONTENTS
+
+1…
+version: 3.11.1
+
+name: RealmSwift, nameSpecified: 
+body: TABLE OF CONTENTS
+
+1…
+version: 3.11.1
+
+add-version-numbers: false
+
+LicensePlist Version: 1.8.3
