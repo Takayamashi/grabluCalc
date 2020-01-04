@@ -55,11 +55,11 @@ PODS:
     - nanopb/encode (= 0.3.901)
   - nanopb/decode (0.3.901)
   - nanopb/encode (0.3.901)
-  - Realm (3.11.1):
-    - Realm/Headers (= 3.11.1)
-  - Realm/Headers (3.11.1)
-  - RealmSwift (3.11.1):
-    - Realm (= 3.11.1)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
 
 DEPENDENCIES:
   - Eureka
@@ -68,10 +68,10 @@ DEPENDENCIES:
   - Google-Mobile-Ads-SDK
   - IQKeyboardManager
   - LicensePlist
-  - RealmSwift
+  - RealmSwift (~> 3.20.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - Eureka
     - Firebase
     - FirebaseAnalytics
@@ -98,9 +98,9 @@ SPEC CHECKSUMS:
   IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
   LicensePlist: c30d20e39985de8600cccda21096cfa98865483b
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
-  Realm: 037c5919b9ceb59d6beed5d3b031096856b119b3
-  RealmSwift: c9580133e73ef40ed340401af2dbc9a5790dfea7
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
 
-PODFILE CHECKSUM: 5d25e46497992663c434267647f701bdc191670b
+PODFILE CHECKSUM: a6a3f0378fc406715ff7dcbd3aa285284230fed1
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4

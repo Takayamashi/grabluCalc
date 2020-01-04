@@ -6,7 +6,7 @@ target 'guraburucalc' do
   use_frameworks!
   pod 'LicensePlist'
   pod 'Eureka'
-  pod 'RealmSwift'
+  pod 'RealmSwift', '~> 3.20.0'
   pod 'IQKeyboardManager'
   pod 'Firebase/Core'
   pod 'Firebase/AdMob'
